@@ -1,0 +1,225 @@
+TTEST
+v7
+r0
+t308336395.680374
+cCheck dependencies
+cProcessInfoPlistFile /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Info.plist TEST-Info.plist
+cCopyStringsFile /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/joshuagarnham/Desktop/TEST/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEST_Prefix-geboymppdqsfmccrdibvwaanteuk/TEST_Prefix.pch.gch TEST_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/main.o /Users/joshuagarnham/Desktop/TEST/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/TESTAppDelegate.o /Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/Title.o /Users/joshuagarnham/Desktop/TEST/Title.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/joshuagarnham/Desktop/TEST/English.lproj/InfoPlist.strings
+c000000004CB09D9A000000000000002D
+t1286643098
+s45
+
+N/Users/joshuagarnham/Desktop/TEST/English.lproj/MainMenu.xib
+c000000004CB09D9A000000000002BB4A
+t1286643098
+s179018
+
+N/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.h
+c000000004CB09D9A0000000000000137
+t1286643098
+s311
+i<Cocoa/Cocoa.h>
+
+N/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m
+c000000004CB09E9C0000000000000280
+t1286643356
+s640
+i"TESTAppDelegate.h"
+
+N/Users/joshuagarnham/Desktop/TEST/TEST_Prefix.pch
+c000000004CB09D9A000000000000008B
+t1286643098
+s139
+i<Cocoa/Cocoa.h>
+
+N/Users/joshuagarnham/Desktop/TEST/Title Other.m
+c000000004CAF56F20000000000000017
+t1286559474
+s23
+
+N/Users/joshuagarnham/Desktop/TEST/Title.m
+c000000004CAF56F20000000000000017
+t1286559474
+s23
+
+N/Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app
+t2
+s0
+
+N/Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Info.plist
+t1286643363
+s877
+
+N/Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/MacOS/TEST
+t2
+s0
+
+N/Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/PkgInfo
+t1286643363
+s8
+
+N/Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1286643367
+s92
+
+N/Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Resources/English.lproj/MainMenu.nib
+t1286643372
+s34330
+
+N/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/TEST.LinkFileList
+c000000004CB09EA2000000000000012F
+t1286643362
+s303
+
+N/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/TESTAppDelegate.o
+t1286643595
+s23156
+
+N/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/Title Other.o
+t2
+s0
+
+N/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/Title.o
+t2
+s0
+
+N/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/main.o
+t1286643595
+s4976
+
+N/Users/joshuagarnham/Desktop/TEST/main.m
+c000000004CB09D9A00000000000000FF
+t1286643098
+s255
+i<Cocoa/Cocoa.h>
+
+N/var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEST_Prefix-geboymppdqsfmccrdibvwaanteuk/TEST_Prefix.pch.gch
+t1286643591
+s54265616
+
+NTEST-Info.plist
+c000000004CB09D9A00000000000003EA
+t1286643098
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308336161#308336163#0(0"0(0#1#0"2555928512#0"0#
+
+CCompileC "build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/Title Other.o" "/Users/joshuagarnham/Desktop/TEST/Title Other.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/TESTAppDelegate.o /Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308336395.182112
+e308336395.680279
+r1
+xCompileC
+xbuild/TEST.build/Debug/TEST.build/Objects-normal/x86_64/TESTAppDelegate.o
+x/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m: In function '-[TESTAppDelegate applicationDidFinishLaunching:]':
+o/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m:19: warning: 'TESTAppDelegate' may not respond to '-sharedWorkspace'
+o/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m:19: warning: (Messages without a matching method signature
+o/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m:19: warning: will be assumed to return 'id' and accept
+o/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m:19: warning: '...' as arguments.)
+lSLF07#2@59"Compile /Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m308336395#308336395#0(543"/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m: In function '-[TESTAppDelegate applicationDidFinishLaunching:]':/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m:19: warning: 'TESTAppDelegate' may not respond to '-sharedWorkspace'/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m:19: warning: (Messages without a matching method signature/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m:19: warning: will be assumed to return 'id' and accept/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m:19: warning: '...' as arguments.)2(22@55"'TESTAppDelegate' may not respond to '-sharedWorkspace'308336395#118#121#0(6@51"/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m308336156#19#0#19#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)308336395#239#111#0(6@51"/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m308336156#19#0#19#0#0"0(0#0#51"/Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m2555928512#1357"    cd /Users/joshuagarnham/Desktop/TEST    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-generated-files.hmap -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-own-target-headers.hmap -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-all-target-headers.hmap -iquote /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-project-headers.hmap -F/Users/joshuagarnham/Desktop/TEST/build/Debug -I/Users/joshuagarnham/Desktop/TEST/build/Debug/include -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/DerivedSources/x86_64 -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/DerivedSources -include /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEST_Prefix-geboymppdqsfmccrdibvwaanteuk/TEST_Prefix.pch -c /Users/joshuagarnham/Desktop/TEST/TESTAppDelegate.m -o /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/TESTAppDelegate.o0#
+
+CCompileC build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/Title.o /Users/joshuagarnham/Desktop/TEST/Title.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308336395.183834
+e308336395.597587
+r0
+xCompileC
+xbuild/TEST.build/Debug/TEST.build/Objects-normal/x86_64/Title.o
+x/Users/joshuagarnham/Desktop/TEST/Title.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/joshuagarnham/Desktop/TEST/Title.m:1: warning: cannot find interface declaration for 'Hello'
+o/Users/joshuagarnham/Desktop/TEST/Title.m:1: error: expected identifier or '(' before '!' token
+o/Users/joshuagarnham/Desktop/TEST/Title.m:1: warning: '@end' missing in implementation context
+lSLF07#2@49"Compile /Users/joshuagarnham/Desktop/TEST/Title.m308336395#308336395#0(291"/Users/joshuagarnham/Desktop/TEST/Title.m:1: warning: cannot find interface declaration for 'Hello'/Users/joshuagarnham/Desktop/TEST/Title.m:1: error: expected identifier or '(' before '!' token/Users/joshuagarnham/Desktop/TEST/Title.m:1: warning: '@end' missing in implementation context3(22@45"Cannot find interface declaration for 'Hello'308336395#0#100#0(6@41"/Users/joshuagarnham/Desktop/TEST/Title.m308252274#1#0#1#0#0"0(4@43"Expected identifier or '(' before '!' token308336395#100#96#0(6@41"/Users/joshuagarnham/Desktop/TEST/Title.m308252274#1#0#1#0#19"expected * before *0(22@40"'@end' missing in implementation context308336395#196#95#0(6@41"/Users/joshuagarnham/Desktop/TEST/Title.m308252274#1#0#1#0#40"'@end' missing in implementation context0(0#0#41"/Users/joshuagarnham/Desktop/TEST/Title.m2555928512#1337"    cd /Users/joshuagarnham/Desktop/TEST    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-generated-files.hmap -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-own-target-headers.hmap -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-all-target-headers.hmap -iquote /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-project-headers.hmap -F/Users/joshuagarnham/Desktop/TEST/build/Debug -I/Users/joshuagarnham/Desktop/TEST/build/Debug/include -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/DerivedSources/x86_64 -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/DerivedSources -include /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEST_Prefix-geboymppdqsfmccrdibvwaanteuk/TEST_Prefix.pch -c /Users/joshuagarnham/Desktop/TEST/Title.m -o /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/Title.o1#
+
+CCompileC build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/main.o /Users/joshuagarnham/Desktop/TEST/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308336392.379162
+e308336395.181766
+r1
+xCompileC
+xbuild/TEST.build/Debug/TEST.build/Objects-normal/x86_64/main.o
+x/Users/joshuagarnham/Desktop/TEST/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/joshuagarnham/Desktop/TEST/main.m308336392#308336395#0(0"0(0#0#40"/Users/joshuagarnham/Desktop/TEST/main.m2555928512#1335"    cd /Users/joshuagarnham/Desktop/TEST    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-generated-files.hmap -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-own-target-headers.hmap -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-all-target-headers.hmap -iquote /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-project-headers.hmap -F/Users/joshuagarnham/Desktop/TEST/build/Debug -I/Users/joshuagarnham/Desktop/TEST/build/Debug/include -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/DerivedSources/x86_64 -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/DerivedSources -include /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEST_Prefix-geboymppdqsfmccrdibvwaanteuk/TEST_Prefix.pch -c /Users/joshuagarnham/Desktop/TEST/main.m -o /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/joshuagarnham/Desktop/TEST/English.lproj/MainMenu.xib
+s308336163.653375
+e308336172.973997
+r1
+xCompileXIB
+x/Users/joshuagarnham/Desktop/TEST/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib308336163#308336172#0(0"0(0#0#60"/Users/joshuagarnham/Desktop/TEST/English.lproj/MainMenu.xib2555928512#346"    cd /Users/joshuagarnham/Desktop/TEST    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Resources/English.lproj/MainMenu.nib /Users/joshuagarnham/Desktop/TEST/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s308336163.459665
+e308336167.174081
+r1
+xCopyStringsFile
+x/Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings308336163#308336167#0(0"0(0#0#65"/Users/joshuagarnham/Desktop/TEST/English.lproj/InfoPlist.strings2555928512#352"    cd /Users/joshuagarnham/Desktop/TEST    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Resources/English.lproj0#
+
+CLd /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/MacOS/TEST normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Info.plist TEST-Info.plist
+s308336162.858040
+e308336163.459537
+r1
+xProcessInfoPlistFile
+x/Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Info.plist
+xTEST-Info.plist
+lSLF07#2@23"Process TEST-Info.plist308336163#308336163#0(0"0(0#0#49"/Users/joshuagarnham/Desktop/TEST/TEST-Info.plist4717520#286"    cd /Users/joshuagarnham/Desktop/TEST    builtin-infoPlistUtility TEST-Info.plist -genpkginfo /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEST_Prefix-geboymppdqsfmccrdibvwaanteuk/TEST_Prefix.pch.gch TEST_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s308336172.974197
+e308336392.378844
+r1
+xProcessPCH
+x/var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEST_Prefix-geboymppdqsfmccrdibvwaanteuk/TEST_Prefix.pch.gch
+xTEST_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile TEST_Prefix.pch308336172#308336392#0(0"0(0#0#49"/Users/joshuagarnham/Desktop/TEST/TEST_Prefix.pch2555928512#1249"    cd /Users/joshuagarnham/Desktop/TEST    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-generated-files.hmap -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-own-target-headers.hmap -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-all-target-headers.hmap -iquote /Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/TEST-project-headers.hmap -F/Users/joshuagarnham/Desktop/TEST/build/Debug -I/Users/joshuagarnham/Desktop/TEST/build/Debug/include -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/DerivedSources/x86_64 -I/Users/joshuagarnham/Desktop/TEST/build/TEST.build/Debug/TEST.build/DerivedSources -c /Users/joshuagarnham/Desktop/TEST/TEST_Prefix.pch -o /var/folders/q7/q7RnimkTFRCFPf3TStFLTk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TEST_Prefix-geboymppdqsfmccrdibvwaanteuk/TEST_Prefix.pch.gch0#
+
+CTouch /Users/joshuagarnham/Desktop/TEST/build/Debug/TEST.app
+r0
+
